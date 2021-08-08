@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/*
+
+--------------------------------------------------------------------------------------------
+# Settings (Configurações)
+--------------------------------------------------------------------------------------------
+
+Essas são as configurações básicas da sua arquitetura. 
+Em geral, são as variáveis globais que vão definir cores, 
+espaçamentos e outras configurações desejadas para o 
+funcionamento do seu framework em si.
+
+--------------------------------------------------------------------------------------------
+
+These are comme basic settings of your architecture.
+In general, are comme Global variables that will define noyaux ,
+spacing and other settings for
+operation faire its cadre itself.
+
+*/
+/* -------------------------------------------------------- */
+/* I.   Pattern
+/* -------------------------------------------------------- */
+/* -------------------------------------------------------------
+  Sass CSS3 Mixins! The Cross-Browser CSS3 Sass Library
+  By: Matthieu Aussaguel, http://www.mynameismatthieu.com, @matthieu_tweets
+  List of CSS3 Sass Mixins File to be @imported and @included as you need
+  The purpose of this library is to facilitate the use of CSS3 on different browsers avoiding HARD TO READ and NEVER
+  ENDING css files
+  note: All CSS3 Properties are being supported by Safari 5
+  more info: http://www.findmebyip.com/litmus/#css3-properties
+------------------------------------------------------------- */
+/* -------------------------------------------------------- */
+/* II.  Generic
+/* -------------------------------------------------------- */
+/* -------------------------------------------------------- */
+/* III. Regions
+/* -------------------------------------------------------- */
+/* -------------------------------------------------------- */
+/* IV.  Modules
+/* -------------------------------------------------------- */

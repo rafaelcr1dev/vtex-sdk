@@ -1,0 +1,14 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Automatização de tarefas",
+  "main": "Gulpfile.js",
+  "author": "Lucas Russo",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-notify": "^3.0.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}
